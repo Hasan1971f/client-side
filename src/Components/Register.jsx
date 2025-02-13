@@ -33,7 +33,7 @@ const Register = () => {
                 toast.success('Successfully Registered');
                 updateProfile(auth.currentUser, { displayName: name, photoURL: photoUrl })
                     .then(result => {
-                        // Profile Updated
+                       
                     })
                 navigate('/');
                 form.reset();
