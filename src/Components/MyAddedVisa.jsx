@@ -127,7 +127,7 @@ const MyAddedVisa = () => {
                                 <div className="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent"></div>
                             </div>
 
-                            {/* Content Section */}
+                         
                             <div className="p-6 flex flex-col gap-3">
                                 <h2 className={`text-xl font-semibold ${theme === "dark" ? "text-white" : "text-[#171924]"}`}>{visa.countryName}</h2>
                                 <p className={`text-sm ${theme === "dark" ? "text-gray-300" : "text-gray-600"}`}>

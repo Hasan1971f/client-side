@@ -103,7 +103,7 @@ const MyVisaApplication = () => {
                                     <div className="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent"></div>
                                 </div>
 
-                                {/* Content Section */}
+                                
                                 <div className="p-6 flex flex-col gap-5 flex-grow">
                                     <h2 className={`text-xl font-semibold ${theme === "dark" ? "text-white" : "text-[#171924]"}`}>{visa.countryName}</h2>
                                     {/* Information Grid */}
