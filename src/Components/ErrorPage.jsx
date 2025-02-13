@@ -12,7 +12,7 @@ const ErrorPage = () => {
                 <div className="h-[300px] w-[300px] bg-gradient-to-tr from-[#171924] to-[#2a2d3e] blur-2xl rounded-full animate-pulse"></div>
             </div>
 
-            {/* Content */}
+         
             <div className="relative z-10 text-center p-6 max-w-md mx-auto">
                 <h1 className="text-9xl font-extrabold drop-shadow-lg animate-pulse tracking-wider mb-4">
                     404
