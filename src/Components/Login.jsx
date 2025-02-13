@@ -64,7 +64,7 @@ const Login = () => {
                 backgroundPosition: 'center',
             }}
         >
-            {/* Background Overlay */}
+           
             {
                 theme === 'dark' ?
                     <div className="absolute w-full h-full bg-gradient-to-tr from-[#171924] via-[#171924]/95 to-[#6b1020]/95"></div>
