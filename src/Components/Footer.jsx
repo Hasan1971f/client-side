@@ -37,7 +37,7 @@ const Footer = () => {
                 </div>
                 <div>
                     <h3 className="text-xl font-semibold mb-3">Copyright</h3>
-                    <p className="">© 2024 Visa Navigator. All rights reserved.</p>
+                    <p className="">© 2025 Visa Navigator. All rights reserved.</p>
                 </div>
             </div>
         </footer>
