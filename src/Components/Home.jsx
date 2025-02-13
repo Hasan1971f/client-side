@@ -6,6 +6,8 @@ import ExtraSection2 from './ExtraSection2';
 import AboutUs from './AboutUs';
 
 const Home = () => {
+   
+    
     return (
         <div>
             <Banner></Banner>

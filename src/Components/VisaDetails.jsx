@@ -30,7 +30,7 @@ const VisaDetails = () => {
         const userEmail = user.email;
 
         const appliedVisa = { fullName, userEmail, countryUrl, countryName, visaType, processingTime, fee, validity, applicationMethod, currentTime };
-        console.log(appliedVisa);
+        // console.log(appliedVisa);
 
         const isAlreadyApplied = appliedVisas.some(
             (visa) => visa.fullName === fullName && visa.userEmail === userEmail && visa.countryName === countryName && visa.visaType === visaType
