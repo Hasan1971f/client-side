@@ -59,7 +59,7 @@ const Navbar = () => {
                         </button>
                     </div>
 
-                    {/* User Profile */}
+                   
                     {user ? (
                         <div className="relative">
                             <div className="w-12 h-12 rounded-full overflow-hidden cursor-pointer" onClick={() => setDropdownVisible(!dropdownVisible)}>
