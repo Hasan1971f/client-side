@@ -73,6 +73,7 @@ const AuthProvider = ({ children }) => {
     const forgotPassword = (email) => {
         return sendPasswordResetEmail(auth, email);
     }
+    // 
 
     const authInfo = {
         menu,
