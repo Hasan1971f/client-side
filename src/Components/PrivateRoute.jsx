@@ -13,7 +13,7 @@ const PrivateRoute = ({ children }) => {
         }, 2000);
         return () => clearTimeout(timeout);
     }, []);
-
+// 
     if (loading) {
         return (
             <div className="flex justify-center items-center w-full h-[500px]">
