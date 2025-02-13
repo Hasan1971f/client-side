@@ -93,7 +93,7 @@ const VisaDetails = () => {
                 </div>
             </div>
             <div className={`w-[90%] mx-auto my-20 ${theme === 'dark' ? 'text-white' : 'text-[#171924]'}`}>
-                {/* Card Container */}
+                
                 <div className={`max-w-[400px] md:max-w-[500px] lg:max-w-[600px] mx-auto shadow-lg border rounded-lg overflow-hidden transition-all duration-300 ${theme === "dark" ? 'bg-gray-800/20 border-gray-700' : 'bg-white border-gray-200/50'}`}>
                     {/* Image Section */}
                     <div className='relative'>
