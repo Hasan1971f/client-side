@@ -58,35 +58,35 @@ const ExtraSection2 = () => {
             "name": "Oliver Taylor",
             "profession": "HR Specialist",
             "review": "Visa Navigator's interactive tools made everything so much easier. I can't thank them enough!",
-            "date": "August 30, 2024"
+            "date": "August 20, 2024"
         },
         {
             "profile_img": "https://randomuser.me/api/portraits/men/9.jpg",
             "name": "William Harris",
             "profession": "Consultant",
             "review": "The platform's features are very user-friendly and comprehensive. Visa Navigator is fantastic!",
-            "date": "September 15, 2024"
+            "date": "September 10, 2024"
         },
         {
             "profile_img": "https://randomuser.me/api/portraits/men/10.jpg",
             "name": "Isaac Clark",
             "profession": "Researcher",
             "review": "Visa Navigator's support team was incredibly responsive and helpful throughout my application process.",
-            "date": "October 20, 2024"
+            "date": "October 10, 2024"
         },
         {
             "profile_img": "https://randomuser.me/api/portraits/men/11.jpg",
             "name": "Benjamin Lee",
             "profession": "Software Developer",
             "review": "The resources provided by Visa Navigator were spot-on. I was able to get my visa with ease!",
-            "date": "November 10, 2024"
+            "date": "November 7, 2024"
         },
         {
             "profile_img": "https://randomuser.me/api/portraits/men/12.jpg",
             "name": "Alexander King",
             "profession": "Entrepreneur",
             "review": "Visa Navigator's comprehensive guides and tips made the visa process straightforward and stress-free.",
-            "date": "December 5, 2024"
+            "date": "December 7, 2024"
         }
     ];
     const [showAll, setShowAll] = useState(false);
