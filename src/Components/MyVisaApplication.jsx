@@ -93,7 +93,7 @@ const MyVisaApplication = () => {
                                     : "bg-white border-gray-200/50"
                                     }`}
                             >
-                                {/* Image Section */}
+                               
                                 <div className="h-[220px] md:h-[250px] lg:h-[280px] relative">
                                     <img
                                         src={visa.countryUrl}
