@@ -28,7 +28,7 @@ const LatestVisa = () => {
                             <div className="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent"></div>
                         </div>
 
-                        {/* Content Section */}
+                        
                         <div className="p-6 flex flex-col gap-4">
                             <h2 className={`text-2xl font-bold ${theme === "dark" ? "text-white" : "text-gray-800"}`}>
                                 {visa.countryName}
