@@ -17,7 +17,7 @@ const AboutUs = () => {
                 : "bg-white border-gray-200/50"
                 }`}>
                 <div className='lg:w-1/2'>
-                    <h2 className="text-2xl font-bold mb-4">Our Services Include:</h2>
+                    <h2 className="text-2xl font-bold mb-4">Our Services:</h2>
                     <ul className="list-disc pl-6 mb-4">
                         <li>Detailed guides on visa requirements and application processes.</li>
                         <li>Personalized advice from visa experts.</li>
